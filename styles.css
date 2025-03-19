@@ -1,0 +1,51 @@
+h2{
+    text-align:center;
+    font-family: "Lexend Deca", sans-serif;
+}
+p{
+    font-family: "Noto Sans", sans-serif;
+}
+ul{
+    padding:10px;
+    background-color:rgba(255,255,255,0.7);
+}
+li{
+    padding:0px 10px 0px 10px;
+    display:inline;
+}
+header{
+    text-align:center;
+    background:url(images/park.jpg);
+    background-size:cover;
+    padding:20px 0px 0px 0px;
+    color:rgb(255, 255, 255);
+}
+h1{
+    font-size:60px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+article{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+#header-img{
+    margin:40px 0px 0px 0px;
+    border: 4px solid white;
+}
+#header-link:visited { 
+    text-decoration: none; 
+    color: blue; 
+}
+#header-link{
+    text-decoration: none; 
+    color: blue; 
+}
